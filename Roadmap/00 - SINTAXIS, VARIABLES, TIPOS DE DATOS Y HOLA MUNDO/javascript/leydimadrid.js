@@ -19,7 +19,7 @@ let booleanFalse = false;
 let nullType = null;
 let undefined;
 let symbol = Symbol("Soy un Symbol");
-let Bignit = 100000000000000000000;
+let Bignit = 100000000000000000000n;
 
 //Imprimir en la consola
 console.log("¡Hola, JavaScript");
